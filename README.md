@@ -6,6 +6,7 @@ Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
 
 Tenho conhecimentos em:
 
+- **Desenvolvimento backend**: Java
 - **Desenvolvimento Web**: HTML, CSS e JavaScript
 - **Qualidade e Teste de Software**
 - **SQL**
