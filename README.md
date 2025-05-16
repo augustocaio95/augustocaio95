@@ -2,7 +2,9 @@
 
 ## Quem sou eu
 
-Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Tenho conhecimentos em:
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Aqui deixo disponiveis tudo em que estou trabalhando, desde projetos pessoais a projetos acadêmicos que possam mostrar meu conhecimento.
+
+Tenho conhecimentos em:
 
 - **Desenvolvimento Web**: HTML, CSS e JavaScript
 - **Qualidade e Teste de Software**
