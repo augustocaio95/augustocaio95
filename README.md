@@ -12,9 +12,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia
 
 Estou à procura da minha primeira oportunidade no mercado de trabalho, onde eu possa aplicar meus conhecimentos, continuar aprendendo e me desenvolvendo. Sou uma pessoa proativa, disposta a enfrentar novos desafios e contribuir de forma significativa para o sucesso de projetos e empresas.
 
-## Vamos Conversar!
-
-Se você está procurando um profissional dedicado e entusiasmado para integrar sua equipe, ficarei feliz em conversar e explorar como posso agregar valor ao seu time.
 
 📫 Você pode me encontrar em: [augustocaio.santos95@gmail.com](augustocaio.santos95@gmail.com)
 
@@ -28,7 +25,6 @@ Se você está procurando um profissional dedicado e entusiasmado para integrar 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
-## Contribuições e Colaborações
 
 Estou aberto a colaborações em projetos de código aberto e gostaria de contribuir com a comunidade!
 
