@@ -2,7 +2,7 @@
 
 ## Quem sou eu
 
-Sou recém-formado em **Análise e Desenvolvimento de Sistemas**, apaixonado por tecnologia e inovação. Tenho conhecimentos em:
+Sou formado em Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e inovação. Tenho conhecimentos em:
 
 - **Desenvolvimento Web**: HTML, CSS e JavaScript
 - **Qualidade e Teste de Software**
@@ -16,12 +16,8 @@ Estou à procura da minha primeira oportunidade no mercado de trabalho, onde eu 
 
 Se você está procurando um profissional dedicado e entusiasmado para integrar sua equipe, ficarei feliz em conversar e explorar como posso agregar valor ao seu time.
 
-📫 Você pode me encontrar em: [seu-email@example.com](mailto:seu-email@example.com)
+📫 Você pode me encontrar em: [augustocaio.santos95@gmail.com](augustocaio.santos95@gmail.com)
 
-### Meus Projetos
-
-- [Nome do Projeto 1](link-do-projeto-1) - Breve descrição do projeto.
-- [Nome do Projeto 2](link-do-projeto-2) - Breve descrição do projeto.
 
 ## Tecnologias que uso
 
@@ -29,6 +25,8 @@ Se você está procurando um profissional dedicado e entusiasmado para integrar 
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)
 
 ## Contribuições e Colaborações
 
